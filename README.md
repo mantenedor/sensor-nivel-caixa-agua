@@ -2,6 +2,8 @@
 
 Firmware para NodeMCU ESP8266 com sensor ultrassônico HC-SR04. O dispositivo mede o nível e o volume de água, mantém um histórico de 24 horas em memória RTC e disponibiliza os dados por interface web e API REST local.
 
+<img width="1272" height="910" alt="image" src="https://github.com/user-attachments/assets/978de21a-61f5-4688-8067-c731457b4161" />
+
 Mantenedor: [mantenedor](https://github.com/mantenedor)
 
 ## Recursos
